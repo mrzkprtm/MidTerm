@@ -1,8 +1,4 @@
 # MidTerm
-# Tokopedia Play Clone
-
-This is a Tokopedia Play Clone, a video streaming platform with integrated product listings and comments. It allows users to watch videos and explore related products while providing the ability to comment on videos.
-
 ## Database Structure
 
 The database used for this application is MongoDB. It consists of two collections: `videos` and `products`.
