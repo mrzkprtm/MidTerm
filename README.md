@@ -32,7 +32,6 @@ The API is built using Node.js and Express, following RESTful standards. It prov
         "VideoID": "video_id_2",
         "UrlImageThumbnail": "https://example.com/thumbnail2.jpg"
       },
-      // More video thumbnails...
     ]
     ```
 
@@ -56,7 +55,6 @@ The API is built using Node.js and Express, following RESTful standards. It prov
         "Title": "Product 2",
         "Price": 39.99
       },
-      // More products associated with the specified videoID...
     ]
     ```
 
@@ -75,7 +73,6 @@ The API is built using Node.js and Express, following RESTful standards. It prov
          "VideoID": "video_id_2",
          "UrlImageThumbnail": "https://example.com/thumbnail2.jpg"
        },
-       // More video thumbnails...
      ]
      ```
 
@@ -98,6 +95,5 @@ The API is built using Node.js and Express, following RESTful standards. It prov
          "Title": "Product 2",
          "Price": 39.99
        },
-       // More products associated with the specified videoID...
      ]
      ```
